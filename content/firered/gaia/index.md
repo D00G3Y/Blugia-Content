@@ -2,7 +2,7 @@
 
 ## Intro
 
-Pokemon Gaia is a ROM hack of fire red featuring generation 4 - 6 pokemon, updated sprites, music, learn-sets, moves and map (Orbtus region) as well as new additional features including:
+Pokemon Gaia is a ROM hack of fire red featuring generation 4 - 6 pokemon, new - updated sprites, music, learn-sets, moves and map (Orbtus region) as well as new additional features including:
 
 - Mega evolution 
 - The battle marsh 
