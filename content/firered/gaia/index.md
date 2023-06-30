@@ -17,4 +17,4 @@ The starter pokemon available to you are the wonderful gen 4 group of:
 - Chimchar
 - Piplup
 
-![Gen 4 starters](/assets/images/Starter-Pokemon.png "Starter Pokemon")
+![Gen 4 starters](assets/images/Starter-Pokemon.png "Starter Pokemon")
